@@ -1,0 +1,14 @@
+dependencies:
+  espressif/esp32_io_expander:
+    public: true
+    version: ^0.1.0
+  idf: '>=5.1'
+description: ESP32_Display_Panel is a library designed for ESP SoCs to drive display
+  panels and facilitate rapid GUI development.
+issues: https://github.com/esp-arduino-libs/ESP32_Display_Panel/issues
+repository: git://github.com/esp-arduino-libs/ESP32_Display_Panel.git
+repository_info:
+  commit_sha: f9ed1848155a07e7dd5e1296af06546c1ed1ffac
+  path: .
+url: https://github.com/esp-arduino-libs/ESP32_Display_Panel
+version: 0.2.1
