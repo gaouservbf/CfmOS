@@ -1,2 +1,0 @@
-# CfmOS
-Operating system for ESP32 and ESP32 S3 Pocket PC 2003 replica, Can dynamically load apps from SD, default shell and softwares are direct replica of *Windows Mobile 2003*, application API is Win32
